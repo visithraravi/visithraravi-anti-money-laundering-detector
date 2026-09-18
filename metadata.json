@@ -1,0 +1,6 @@
+{
+  "name": "AMLens - AI-Powered Anti-Money-Laundering Investigation System",
+  "description": "Enterprise-grade AML investigation platform: follow the money trail, detect layering and circular flows, explain risk with AI, and generate case reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
